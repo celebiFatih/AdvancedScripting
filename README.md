@@ -1,5 +1,5 @@
 # Advanced Scripting with Qlik Sense
-This project include; Transforming data, Using the Crosstable prefix, Combining tables with Join and Keep, Using inter-record functions: Peek, Previous, and Exists, Matching intervals and iterative loading, Data cleansing, Handling hierarchical data, QVD files.
+This project include; Transforming data, Using the Crosstable prefix, Combining tables with Join and Keep, Using inter-record functions: Peek, Previous, and Exists, Matching intervals and iterative loading, Data cleansing, Handling hierarchical data, QVD files. More detailed information on the subject can be found in this [report](https://github.com/celebiFatih/AdvancedScripting/blob/main/Report-Basics%20of%20Scripting%20with%20Qlik%20Sense.pdf).
 ## Advanced Scripting Tutorial.qvf
 Loading data using the Crosstable prefix, combining tables using Join, using inter-record functions Peek and Previous.
 ## Advanced Scripting Tutorial-2.qvf
